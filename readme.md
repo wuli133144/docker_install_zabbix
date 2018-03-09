@@ -15,5 +15,10 @@
       
    -name zabbix  wuyujie_zabbix:lastest  /usr/sbin/init 
   ```
-  
+ 
+<code>注意端口的映射
+  10051端口是zabbix-server监听端口
+  10081是          zabbix-web端口
+
+</code>
   
